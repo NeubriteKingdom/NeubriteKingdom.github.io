@@ -1,1 +1,1 @@
-# neubrite-kingdom.github.io
+# NeubriteKingdom.github.io
