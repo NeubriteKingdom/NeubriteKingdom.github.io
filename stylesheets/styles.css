@@ -12,12 +12,12 @@ font-size: 18px;
 }
 
 #titlebar a:hover {
-background color: #ddd;
+background-color: #ba2525;
 color: black;
 }
 
 #titlebar a:active {
-background color: #b7443e;
+background-color: #b7443e;
 color: white;
 }
 
