@@ -1,0 +1,12 @@
+#about-header {
+	text-align: center;
+}
+
+#about-header a:hover {
+
+	text-align: left;
+}
+
+#body {
+	background-color: gray;
+}
