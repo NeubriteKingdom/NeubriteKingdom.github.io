@@ -121,7 +121,7 @@ color: white;
   to {opacity: 1}
 }
 
-.social-bar-picture {
+#social-bar-picture {
 	width: 10px;
 	height: 10px;
 }
