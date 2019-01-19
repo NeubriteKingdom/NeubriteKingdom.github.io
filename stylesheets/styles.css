@@ -122,6 +122,6 @@ color: white;
 }
 
 #social-bar-picture {
-	width: 10px;
-	height: 10px;
+	width: "10";
+	height: "10";
 }
