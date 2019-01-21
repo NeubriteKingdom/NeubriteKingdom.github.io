@@ -35,10 +35,16 @@ body {
 
 .background-image {
 	vertical-align: middle;
-	background-image: url("banner-image.jpg");
-	background-repeat: no-repeat ;
+	height: 35rem;
+	background-image: url("http://www.neubritekingdom.com/banner-image.jpg);
+	background-repeat: no-repeat;
 	background-position: 100.00% 17.13%;
 	background-size: 100%;
 	background-color: transparent;
 	background-size: cover;
+}
+
+.main-text {
+	padding: 8rem;
+	font-size: 2rem;
 }
