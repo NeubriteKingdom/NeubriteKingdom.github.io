@@ -5,8 +5,8 @@ border-bottom-style: solid;
 }
 
 #titlebar a {
-float: left;
-color: #fffff;
+float: right;
+color: #ddd;
 text-align: center;
 padding: 14px 16px;
 font-size: 18px;
@@ -52,6 +52,11 @@ body {
 
 .social-bar{
   background-color: #2f2f30;
-  align-content: right;
+  float: right;
 }
 
+.social-bar .twitter {
+
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
