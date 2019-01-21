@@ -49,3 +49,11 @@ body {
 	font-size: 2rem;
 	font-color: white;
 }
+
+.social-bar{
+  background-color: #2f2f30;
+}
+.social-bar-picture {
+  align-items: right;
+  align-content: right;
+}
