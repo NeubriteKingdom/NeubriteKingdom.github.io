@@ -5,10 +5,12 @@ border-bottom-style: solid;
 }
 
 #titlebar li {
-float: right;
 color: #ddd;
 text-align: center;
 font-size: 18px;
+list-style-type:none;
+margin-right:none;
+margin-left: 10px;
 position: -webkit-sticky;
 position: sticky;
 
