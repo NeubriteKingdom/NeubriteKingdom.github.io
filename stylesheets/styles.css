@@ -4,12 +4,14 @@ overflow: hidden;
 border-bottom-style: solid;
 }
 
-#titlebar a {
+#titlebar li {
 float: right;
 color: #ddd;
 text-align: center;
-padding: 14px 16px;
 font-size: 18px;
+position: -webkit-sticky;
+position: sticky;
+
 }
 
 #titlebar h1 {
@@ -51,6 +53,7 @@ body {
 
 .paragraph {
 	max-width: 50%;
+	text-align: center;
 }
 
 .main-text {
