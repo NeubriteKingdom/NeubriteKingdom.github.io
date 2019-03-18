@@ -59,7 +59,7 @@ a{
 
 .btn:hover,.btn:active{
   background-color #fff;
-  color: #90fc8d;
+  color: #b8d2f9;
   transition: background-color 0.3s ease-in, color 0.3s ease-in;
 }
 
