@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-#click-to-scroll {
+.click-to-scroll {
   
   height: 25%;
   width: auto;
