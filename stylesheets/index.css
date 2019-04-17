@@ -2,14 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-.click-to-scroll {
-  
-  height: 25%;
-  width: auto;
-  align: middle;
-  align: bottom;
-}
-
 *{
   margin: 0;
   height: 100%;
