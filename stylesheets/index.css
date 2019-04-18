@@ -29,6 +29,15 @@ body {
   margin-top: 200px;
 }
 
+.header-inner{
+  height: 2em;
+}
+
+.header-inner a{
+  text-align: center;
+  color: white;
+}
+
 h1{
   font-size: 7em;
   font-family: 'Oswald', sans-serif;
