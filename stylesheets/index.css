@@ -2,11 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-*{
-  margin: 0;
-  height: 100%;
-}
-
 body {
   width: 100%;
   background-color: lightgray;
