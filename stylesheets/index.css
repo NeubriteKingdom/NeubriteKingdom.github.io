@@ -15,8 +15,11 @@ body {
   position: relative;
 }
 
+li{
+  display: inline;
+}
+
 li a{
-  display: block;
   width: 60px;
 }
 .inner-container{
