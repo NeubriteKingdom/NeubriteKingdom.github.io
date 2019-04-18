@@ -29,13 +29,10 @@ body {
   margin-top: 200px;
 }
 
-.header-inner{
-  height: 2em;
-}
-
-.header-inner a{
-  text-align: center;
-  color: white;
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 h1{
