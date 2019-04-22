@@ -18,6 +18,12 @@ body {
   color: white;
   margin-top: 200px;
 }
+
+#home h2{
+  color:white;
+  text-align: center;  
+}
+
 li{
   display: inline;
 }
