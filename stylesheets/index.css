@@ -7,6 +7,9 @@ body {
   background-color: lightgray;
 }
 
+div{
+  margin-top: 200px;
+}
 #home{
   background-image:url("https://neubritekingdom.weebly.com/uploads/3/0/7/5/30754063/background-images/1326305080.jpg");
   background-size: cover;
@@ -21,7 +24,7 @@ body {
 
 #home h2{
   color:white;
-  text-align: center;  
+  text-align: center;
 }
 
 li{
