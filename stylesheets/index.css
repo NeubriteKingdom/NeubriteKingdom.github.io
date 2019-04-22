@@ -8,16 +8,16 @@ body {
 }
 
 #home{
-  background-image: url("https://neubritekingdom.weebly.com/uploads/3/0/7/5/30754063/background-images/1326305080.jpg");
-  height: 100%;
-  background-position: center;
+  background-image:url("https://neubritekingdom.weebly.com/uploads/3/0/7/5/30754063/background-images/1326305080.jpg");
   background-size: cover;
+}
+
+#home h1{
   text-align: center;
   position: absolute;
   color: white;
   margin-top: 200px;
 }
-
 li{
   display: inline;
 }
