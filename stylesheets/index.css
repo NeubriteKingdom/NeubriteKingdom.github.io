@@ -7,24 +7,12 @@ body {
   background-color: lightgray;
 }
 
+ul {
+  height:1rem;
+}
+
 .page{
   margin-top: 60rem;
-}
-#home{
-  background-image:url("https://neubritekingdom.weebly.com/uploads/3/0/7/5/30754063/background-images/1326305080.jpg");
-  background-size: cover;
-}
-
-#home h1{
-  text-align: center;
-  position: absolute;
-  color: white;
-  margin-top: 200px;
-}
-
-#home h2{
-  color:white;
-  text-align: center;
 }
 
 li{
@@ -35,23 +23,8 @@ li a{
   width: 60px;
 }
 
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-h1{
-  font-size: 7em;
-  font-family: 'Oswald', sans-serif;
-}
-
-h2 {
-  margin-top: 20px;
-  font-family: 'Oswald', sans-serif;
-  font-size: 1.7em;
-  text-align: center;
-  font-weight: 400;
+h4{
+  color:white;
 }
 
 a{
