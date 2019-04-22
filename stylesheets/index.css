@@ -7,12 +7,15 @@ body {
   background-color: lightgray;
 }
 
-#home {
+#inner-container {
   background-image: url("https://neubritekingdom.weebly.com/uploads/3/0/7/5/30754063/background-images/1326305080.jpg");
   height: 100%;
   background-position: center;
   background-size: cover;
-  position: relative;
+  text-align: center;
+  position: absolute;
+  color: white;
+  margin-top: 200px;
 }
 
 li{
@@ -21,14 +24,6 @@ li{
 
 li a{
   width: 60px;
-}
-.inner-container{
-  text-align: center;
-  position: absolute;
-  width: 100%;
-  color: white;
-  height:auto;
-  margin-top: 200px;
 }
 
 ul{
