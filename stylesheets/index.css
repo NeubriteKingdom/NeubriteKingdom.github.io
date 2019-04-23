@@ -22,4 +22,8 @@ html {
 .gray{
   color:gray;
 }
+
+.page{
+  padding: 2rem;
+}
 ;
