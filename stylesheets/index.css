@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  background-color: gray;
 }
 
 * {
@@ -25,7 +26,6 @@ html {
 
 .page{
   padding: 1rem;
-  background-color: gray;
 }
 
 ul{
