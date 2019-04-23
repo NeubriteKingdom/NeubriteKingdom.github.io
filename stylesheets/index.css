@@ -30,7 +30,7 @@ html {
 ul{
   list-style-type: none !important;
   overflow: hidden;
-  margin: 1rem;
+  margin: 20px 0px;
 }
 
 .list li{
