@@ -27,10 +27,9 @@ html {
   padding: 2rem;
 }
 
-.list ul{
+ul{
   list-style-type: none;
   overflow: hidden;
-  background-color: white;
   margin: 5rem;
 }
 
