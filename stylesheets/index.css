@@ -27,17 +27,17 @@ html {
   padding: 2rem;
 }
 
-.navigation ul{
+.list ul{
   list-style-type: none;
   overflow: hidden;
   background-color: #333;
 }
 
-.navigation li{
+.list li{
   float: left;
 }
 
-.navigation li a{
+.list li a{
   display: block;
   color: white;
   text-align cneter;
@@ -45,7 +45,7 @@ html {
   text-decoration: none;
 }
 
-.navigation li a:hover {
+.list li a:hover {
   background-color: #111;
 }
 ;
