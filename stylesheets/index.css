@@ -14,4 +14,8 @@ html {
 .italic{
   font-style: italic;
 }
+
+.light{
+  font-weight:lighter;
+}
 ;
