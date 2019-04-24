@@ -32,6 +32,10 @@ html {
   font-size:20px;
 }
 
+.block{
+  padding: 1rem;
+}
+
 ul{
   list-style-type: none !important;
   overflow: hidden;
