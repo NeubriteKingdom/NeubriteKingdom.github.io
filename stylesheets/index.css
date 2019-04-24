@@ -51,7 +51,7 @@ ul{
   list-style-type: none !important;
   overflow: hidden;
   margin: 0px 0px 10px 0px;
-  background-color:black;
+  background-color:#353638;
   color:white;
 }
 
@@ -67,7 +67,7 @@ ul{
 }
 
 .list li a:hover {
-  background-color: #353638;
+  background-color: black;
   color:white;
 }
 
