@@ -75,6 +75,11 @@ ul{
   color:white;
 }
 
+#home{
+  background-image: 2019-04-24_14.45.28.png;
+  background-repeat:no-repeat;  
+}
+
 #playerlist {
   display:inline-block;
   padding:4em;
