@@ -78,6 +78,7 @@ ul{
 #home{
   background-image: url(https://raw.githubusercontent.com/NeubriteKingdom/NeubriteKingdom.github.io/master/pictures/2019-04-24_14.45.28.png);
   background-repeat:no-repeat;
+  background-size:cover;
 }
 
 #playerlist {
