@@ -20,12 +20,12 @@ html {
   font-weight:lighter;
 }
 
-.gray{
-  color:gray;
-}
-
 .page{
   padding: 1rem;
+}
+
+.page h1,h2,h3{
+  color:white;
 }
 
 ul{
@@ -48,7 +48,7 @@ ul{
 }
 
 .list li a:hover {
-  background-color: gray;
+  background-color: #706f6d;
   color:white;
 }
 ;
