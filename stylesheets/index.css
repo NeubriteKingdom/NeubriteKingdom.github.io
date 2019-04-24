@@ -59,4 +59,8 @@ ul{
   background-color: #706f6d;
   color:white;
 }
+
+.list li a:visited {
+  color:white;
+}
 ;
