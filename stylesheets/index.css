@@ -32,6 +32,8 @@ ul{
   list-style-type: none !important;
   overflow: hidden;
   margin: 0px 0px 10px 0px;
+  background-color:black;
+  color:white;
 }
 
 .list li{
@@ -46,7 +48,7 @@ ul{
 }
 
 .list li a:hover {
-  background-color: #111;
+  background-color: gray;
   color:white;
 }
 ;
